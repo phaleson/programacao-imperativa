@@ -1,0 +1,65 @@
+
+const pessoa = [
+    {
+        altura:1.78,
+        sexo:"M"
+    },
+    {
+        altura:1.60,
+        sexo:"F"
+    },
+    {
+        altura:1.65,
+        sexo:"F"
+    },
+    {
+        altura:1.88,
+        sexo:"M"
+    },
+    {
+        altura:1.70,
+        sexo:"M"
+    },
+    {
+        altura:1.73,
+        sexo:"F"
+    },
+    {
+        altura:1.65,
+        sexo:"M"
+    },
+    {
+        altura:1.70,
+        sexo:"F"
+    },
+    {
+        altura:1.71,
+        sexo:"M"
+    },
+    {
+        altura:1.83,
+        sexo:"F"
+    },
+    {
+        altura:1.78,
+        sexo:"M"
+    },
+    {
+        altura:1.82,
+        sexo:"M"
+    },
+    {
+        altura:1.78,
+        sexo:"M"
+    },
+    {
+        altura:1.97,
+        sexo:"F"
+    },
+
+    {
+        altura:1.87,
+        sexo:"M"
+    }
+];
+  
